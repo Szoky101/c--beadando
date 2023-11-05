@@ -1,0 +1,15 @@
+D:\Otthon\c#\feladatok\feladatok\obj\Debug\net6.0\feladatok.csproj.AssemblyReference.cache
+D:\Otthon\c#\feladatok\feladatok\obj\Debug\net6.0\feladatok.GeneratedMSBuildEditorConfig.editorconfig
+D:\Otthon\c#\feladatok\feladatok\obj\Debug\net6.0\feladatok.AssemblyInfoInputs.cache
+D:\Otthon\c#\feladatok\feladatok\obj\Debug\net6.0\feladatok.AssemblyInfo.cs
+D:\Otthon\c#\feladatok\feladatok\obj\Debug\net6.0\feladatok.csproj.CoreCompileInputs.cache
+D:\Otthon\c#\feladatok\feladatok\bin\Debug\net6.0\feladatok.exe
+D:\Otthon\c#\feladatok\feladatok\bin\Debug\net6.0\feladatok.deps.json
+D:\Otthon\c#\feladatok\feladatok\bin\Debug\net6.0\feladatok.runtimeconfig.json
+D:\Otthon\c#\feladatok\feladatok\bin\Debug\net6.0\feladatok.dll
+D:\Otthon\c#\feladatok\feladatok\bin\Debug\net6.0\feladatok.pdb
+D:\Otthon\c#\feladatok\feladatok\obj\Debug\net6.0\feladatok.dll
+D:\Otthon\c#\feladatok\feladatok\obj\Debug\net6.0\refint\feladatok.dll
+D:\Otthon\c#\feladatok\feladatok\obj\Debug\net6.0\feladatok.pdb
+D:\Otthon\c#\feladatok\feladatok\obj\Debug\net6.0\feladatok.genruntimeconfig.cache
+D:\Otthon\c#\feladatok\feladatok\obj\Debug\net6.0\ref\feladatok.dll
